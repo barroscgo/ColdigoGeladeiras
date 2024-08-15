@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Usuario\Downloads\ProjetoFaClube-20240610T221430Z-001\ProjetoFaClube\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1211499988.index
+3578984759.index
+2037469814.index
+2521952411.index
+1875854212.index
+246363785.index
